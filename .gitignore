@@ -1,0 +1,31 @@
+# ---- Keil MDK build output ----
+MDK-ARM/FreeRTOS_PID/
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+MDK-ARM/build.log
+MDK-ARM/*.lst
+*.uvguix.*
+*.uvoptx
+*.uvprojx.bak
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.map
+*.lnp
+*.sct
+*.iex
+
+# ---- CubeIDE / CubeMX ----
+Debug/
+Release/
+.mxproject
+
+# ---- OS / editor ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
